@@ -52,6 +52,7 @@
         <div class="form-group">
             <button type="submit" class="btn btn-primary btn-block btn-lg" name="sign_up">Sign Up</button>
         </div>
+        <?php include("signup_user.php")?>
     </form>
     <div class="text-center small" style="color: #674288;">
         Already have an account <a style="text-decoration: none" href="signin.php">Create one</a>
